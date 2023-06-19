@@ -1,0 +1,186 @@
+﻿  OOP_FinalProject_ChristopherHainzl.cpp
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(158,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(166,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(204,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(222,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(244,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(286,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(294,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(302,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(310,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(318,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(731,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(743,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(747,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(186,25): warning C4244: '-=': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(173,1): message : while compiling class template member function 'int *myvector<int>::erase(int *,int *)'
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(345,11): message : see reference to function template instantiation 'int *myvector<int>::erase(int *,int *)' being compiled
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(180,19): message : see reference to class template instantiation 'myvector<int>' being compiled
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(159,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(147,1): message : while compiling class template member function 'void myvector<int>::push_back(T &&)'
+          with
+          [
+              T=int
+          ]
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(720,15): message : see reference to function template instantiation 'void myvector<int>::push_back(T &&)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(431,1): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(429,49): message : while compiling class template member function 'myvector<std::string>::myvector(std::initializer_list<T>)'
+          with
+          [
+              T=std::string
+          ]
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(154,22): message : see reference to function template instantiation 'myvector<std::string>::myvector(std::initializer_list<T>)' being compiled
+          with
+          [
+              T=std::string
+          ]
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(432,1): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(401,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(397,42): message : while compiling class template member function 'myvector<int>::myvector(unsigned int,T)'
+          with
+          [
+              T=int
+          ]
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(308,15): message : see reference to function template instantiation 'myvector<int>::myvector(unsigned int,T)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(388,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(385,35): message : while compiling class template member function 'myvector<int>::myvector(unsigned int)'
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(574,15): message : see reference to function template instantiation 'myvector<int>::myvector(unsigned int)' being compiled
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(612,25): warning C4267: '+=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(611,92): message : while compiling class template member function 'int *myvector<int>::insert(int *,std::initializer_list<T>)'
+          with
+          [
+              T=int
+          ]
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(661,20): message : see reference to function template instantiation 'int *myvector<int>::insert(int *,std::initializer_list<T>)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(597,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(588,85): message : while compiling class template member function 'int *myvector<int>::insert(int *,unsigned int,T)'
+          with
+          [
+              T=int
+          ]
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(655,19): message : see reference to function template instantiation 'int *myvector<int>::insert(int *,unsigned int,T)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(537,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(529,45): message : while compiling class template member function 'void myvector<int>::assign(unsigned int,T)'
+          with
+          [
+              T=int
+          ]
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(316,11): message : see reference to function template instantiation 'void myvector<int>::assign(unsigned int,T)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(671,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(665,38): message : while compiling class template member function 'void myvector<int>::resize(unsigned int)'
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(577,19): message : see reference to function template instantiation 'void myvector<int>::resize(unsigned int)' being compiled
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(676,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(688,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(709,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(705,39): message : while compiling class template member function 'void myvector<int>::reserve(unsigned int)'
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(581,20): message : see reference to function template instantiation 'void myvector<int>::reserve(unsigned int)' being compiled
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(724,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(720,35): message : while compiling class template member function 'void myvector<int>::shrink_to_fit(void)'
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(578,26): message : see reference to function template instantiation 'void myvector<int>::shrink_to_fit(void)' being compiled
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(301,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(295,59): message : while compiling class template member function 'myvector<int> &myvector<int>::operator =(const myvector<int> &)'
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(284,5): message : see reference to function template instantiation 'myvector<int> &myvector<int>::operator =(const myvector<int> &)' being compiled
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(412,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(408,42): message : while compiling class template member function 'myvector<double>::myvector(const myvector<double> &)'
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(300,18): message : see reference to function template instantiation 'myvector<double>::myvector(const myvector<double> &)' being compiled
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(484,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(477,45): message : while compiling class template member function 'void myvector<double>::resize(unsigned int,T)'
+          with
+          [
+              T=double
+          ]
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(442,12): message : see reference to function template instantiation 'void myvector<double>::resize(unsigned int,T)' being compiled
+          with
+          [
+              T=double
+          ]
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(491,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(36,24): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(220,46): message : see reference to function template instantiation 'myvector<int>::myvector<double*,std::_Iterator_traits_pointer_base<_Ty,true>::difference_type>(InputIterator,InputIterator)' being compiled
+          with
+          [
+              _Ty=double,
+              InputIterator=double *
+          ]
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(220,16): message : see reference to function template instantiation 'myvector<int>::myvector<double*,std::_Iterator_traits_pointer_base<_Ty,true>::difference_type>(InputIterator,InputIterator)' being compiled
+          with
+          [
+              _Ty=double,
+              InputIterator=double *
+          ]
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(42,11): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=int
+          ]
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(48,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(261,21): message : see reference to function template instantiation 'bool operator <<int>(const myvector<int> &,const myvector<int> &)' being compiled
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(69,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(262,29): message : see reference to function template instantiation 'bool operator <=<int>(const myvector<int> &,const myvector<int> &)' being compiled
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(90,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(263,24): message : see reference to function template instantiation 'bool operator ><int>(const myvector<int> &,const myvector<int> &)' being compiled
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(111,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(264,32): message : see reference to function template instantiation 'bool operator >=<int>(const myvector<int> &,const myvector<int> &)' being compiled
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(549,1): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(544,52): message : while compiling class template member function 'void myvector<char>::assign(std::initializer_list<_Elem>)'
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(471,12): message : see reference to function template instantiation 'void myvector<char>::assign(std::initializer_list<_Elem>)' being compiled
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(551,1): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(239,30): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(478,35): message : see reference to function template instantiation 'void myvector<char>::assign<char*,std::_Iterator_traits_pointer_base<_Ty,true>::difference_type>(InputIterator,InputIterator)' being compiled
+          with
+          [
+              _Ty=char,
+              InputIterator=char *
+          ]
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(478,12): message : see reference to function template instantiation 'void myvector<char>::assign<char*,std::_Iterator_traits_pointer_base<_Ty,true>::difference_type>(InputIterator,InputIterator)' being compiled
+          with
+          [
+              _Ty=char,
+              InputIterator=char *
+          ]
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\myvector.h(215,25): warning C4244: '+=': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(669,54): message : see reference to function template instantiation 'int *myvector<int>::insert<int*,std::_Iterator_traits_pointer_base<_Ty,true>::difference_type>(int *,InputIterator,InputIterator)' being compiled
+          with
+          [
+              _Ty=int,
+              InputIterator=int *
+          ]
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl\OOP_FinalProject_ChristopherHainzl.cpp(669,20): message : see reference to function template instantiation 'int *myvector<int>::insert<int*,std::_Iterator_traits_pointer_base<_Ty,true>::difference_type>(int *,InputIterator,InputIterator)' being compiled
+          with
+          [
+              _Ty=int,
+              InputIterator=int *
+          ]
+  OOP_FinalProject_ChristopherHainzl.vcxproj -> C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\Final Project\OOP_FinalProject_ChristopherHainzl\x64\Debug\OOP_FinalProject_ChristopherHainzl.exe
