@@ -1,0 +1,63 @@
+class Rectangle {
+     def int length
+     def int width
+	/*
+	Constructors for Rectangle class
+	*/
+     Rectangle(){
+     	this.length = 2
+     	this.width = 2
+     }
+     Rectangle(x, y){
+     	this.length = x
+     	this.width = y
+     }
+	/*
+	Setters and getters for length and width
+	*/
+     void setLength(int x){
+     	this.length = x
+     }
+     void setWidth(int y){
+     	this.width = y
+     }
+     int getLength(){
+     	return this.length
+     }
+     int getWidth(){
+     	return this.width
+     }
+	/*
+	Functions to compute area and perimeter
+	*/
+     int computeArea(){
+     	return length * width
+     }
+     int computePerimeter(){
+     	return 2 * (length + width)
+     }
+	/*
+	Function to print out length and width
+	*/
+     void PrintLengthAndWidth(){
+     	println("Length: " + this.length)
+     	println("Width: " + this.width)
+     }
+ }
+
+def rect1 = new Rectangle(10, 20)
+println("Contents of rect1:")
+rect1.PrintLengthAndWidth()
+println("Area of rect1: " + rect1.computeArea())
+println("Perimeter of rect1: " + rect1.computePerimeter())
+println()
+def rect2 = new Rectangle()
+println("Contents of rect2:")
+rect2.PrintLengthAndWidth()
+rect2.setLength(5)
+rect2.setWidth(10)
+println("Contents of rect2 after setting length to 5 and width to 10:")
+println(rect2.getLength())
+println(rect2.getWidth())
+println("Area of rect2: " + rect2.computeArea())
+println("Perimeter of rect2: " + rect2.computePerimeter())

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment0.text=\r\n\ Rectangle\ class\ implemented\ in\ Java.\r\n\r\n\ Christopher\ Hainzl\r\n
+comment1.params=
+comment1.target=Rectangle()
+comment1.text=\r\n\ Constructors\ for\ objects\ of\ class\ Rectangle\r\n
+comment2.params=x\ y
+comment2.target=Rectangle(int,\ int)
+comment3.params=x
+comment3.target=void\ setLength(int)
+comment3.text=\r\n\ \ \ \ Setter\ and\ getter\ functions\ for\ length\ and\ width.\r\n
+comment4.params=y
+comment4.target=void\ setWidth(int)
+comment5.params=
+comment5.target=int\ getLength()
+comment6.params=
+comment6.target=int\ getWidth()
+comment7.params=
+comment7.target=int\ computeArea()
+comment7.text=\r\n\ \ \ \ \ Functions\ to\ compute\ area\ and\ perimeter.\r\n
+comment8.params=
+comment8.target=int\ computePerimeter()
+comment9.params=
+comment9.target=void\ printLengthAndWidth()
+comment9.text=\r\n\ \ \ \ \ Function\ to\ print\ out\ length\ and\ width.\r\n
+numComments=10
