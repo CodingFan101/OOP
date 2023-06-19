@@ -1,0 +1,15 @@
+﻿  intarray.cpp
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\HW Assignments\3\IntArray_ChristopherHainzl\IntArray_ChristopherHainzl\intarray.h(41): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\HW Assignments\3\IntArray_ChristopherHainzl\IntArray_ChristopherHainzl\intarray.cpp(26,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\HW Assignments\3\IntArray_ChristopherHainzl\IntArray_ChristopherHainzl\intarray.cpp(45,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\HW Assignments\3\IntArray_ChristopherHainzl\IntArray_ChristopherHainzl\intarray.cpp(64,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\HW Assignments\3\IntArray_ChristopherHainzl\IntArray_ChristopherHainzl\intarray.cpp(83,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\HW Assignments\3\IntArray_ChristopherHainzl\IntArray_ChristopherHainzl\intarray.cpp(322,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\HW Assignments\3\IntArray_ChristopherHainzl\IntArray_ChristopherHainzl\intarray.h(52,22): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\HW Assignments\3\IntArray_ChristopherHainzl\IntArray_ChristopherHainzl\intarray.cpp(413,32): message : see reference to function template instantiation 'IntArray::IntArray<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>,__int64>(InputIterator,InputIterator)' being compiled
+          with
+          [
+              _Ty=int,
+              InputIterator=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<int>>>
+          ]
+  IntArray_ChristopherHainzl.vcxproj -> C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\HW Assignments\3\IntArray_ChristopherHainzl\x64\Debug\IntArray_ChristopherHainzl.exe
