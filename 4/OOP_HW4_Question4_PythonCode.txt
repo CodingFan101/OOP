@@ -1,0 +1,66 @@
+from abc import ABC, abstractmethod
+class Employee(ABC):
+    def __init__(self, name, ssn):
+        self.name = name
+        self.ssn = ssn
+    def setname(self, name):
+        self.name = name
+    def setssn(self, ssn):
+        self.ssn = ssn
+    @property
+    def name(self):
+        return self.name
+    @property
+    def ssn(self):
+        return self.ssn
+    @abstractmethod
+    def printout(self):
+        print("Name: " + self.name)
+        print("SSN: " + self.ssn)
+
+class HourlyEmployee(Employee):
+    def __init__(self, name, ssn, hours, wage):
+        Employee.__init__(self, name, ssn)
+        self.hours = hours
+        self.wage = wage
+    def sethours(self, hours):
+        self.hours = hours
+    def setwage(self, wage):
+        self._wage = wage
+    @property
+    def hours(self):
+        return self.hours
+    @property
+    def wage(self):
+        return self.wage
+    def moneyearned(self):
+        if self.hours > 40:
+            return (40 * self.wage) + ((self.hours - 40) * (self.wage * 1.5))
+        else:
+            return self.hours * self.wage
+    def printout(self):
+        super().printout()
+        print("Hours: " + self.hours)
+        print("Wage: " + self.wage)
+        print("Money Earned: " + self.moneyearned())
+
+class Salaried(Employee):
+    def __init__(self, name, ssn, yearlysalary):
+        Employee.__init__(self, name, ssn)
+        self.yearlysalary = yearlysalary
+    def setyearlysalary(self, salary):
+        self.yearlysalary = salary
+    @property
+    def yearlysalary(self):
+        return self.yearlysalary
+    def weeklysalary(self):
+        return self.yearlysalary / 52
+    def printout(self):
+        super().printout()
+        print("Yearly Salary: ", self.yearlysalary)
+        print("Weekly Salary: ", self.weeklysalary())
+
+h = HourlyEmployee("John", "123-45-6789", 45, 10)
+h.printout()
+s = Salaried("Jane", "845-11-9827", 50000)
+s.printout()

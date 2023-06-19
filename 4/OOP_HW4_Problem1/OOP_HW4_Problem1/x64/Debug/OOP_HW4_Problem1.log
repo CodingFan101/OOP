@@ -1,0 +1,4 @@
+﻿  OOP_HW4_Problem1.cpp
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\HW Assignments\4\OOP_HW4_Problem1\OOP_HW4_Problem1\OOP_HW4_Problem1.cpp(13): error C2248: 'A::A': cannot access protected member declared in class 'A'
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\HW Assignments\4\OOP_HW4_Problem1\OOP_HW4_Problem1\OOP_HW4_Problem1.cpp(6,2): message : see declaration of 'A::A'
+C:\Users\hainz\OneDrive\2023 Spring\Object-Oriented Programming (CMPS373-01)\HW Assignments\4\OOP_HW4_Problem1\OOP_HW4_Problem1\OOP_HW4_Problem1.cpp(1,7): message : see declaration of 'A'
